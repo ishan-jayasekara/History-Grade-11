@@ -1,0 +1,189 @@
+<!-- Header Section -->
+<header class="bg-gradient-to-r from-blue-900 to-indigo-800 text-white shadow-lg py-8 px-4 text-center">
+    <div class="max-w-4xl mx-auto">
+        <span class="bg-blue-700 text-blue-100 text-xs font-semibold px-3 py-1 rounded-full uppercase tracking-wider">11 ශ්‍රේණිය ඉතිහාසය</span>
+        <h1 class="text-3xl md:text-4xl font-bold mt-3">ලෝක මහා සංග්‍රාම හා සම්මුතීන්</h1>
+        <p class="text-blue-200 mt-2 text-sm md:text-base">පළමු හා දෙවන ලෝක යුද්ධ, ජාතීන්ගේ සංගමය සහ එක්සත් ජාතීන්ගේ සංවිධානය පිළිබඳ සවිස්තරාත්මක අධ්‍යයන සටහනක්.</p>
+    </div>
+</header>
+
+<!-- Main Container -->
+<main class="max-w-4xl mx-auto px-4 py-8 flex-grow w-full space-y-12">
+
+    <!-- 1. පළමුවන ලෝක මහා සංග්‍රාමය -->
+    <section class="bg-white rounded-2xl shadow-md border border-slate-100 overflow-hidden transition hover:shadow-lg">
+        <div class="bg-blue-50 border-l-4 border-blue-600 p-6">
+            <h2 class="text-2xl font-bold text-blue-900 flex items-center gap-3">
+                <span class="bg-blue-600 text-white text-sm w-8 h-8 rounded-full flex items-center justify-center font-semibold">1</span>
+                පළමුවන ලෝක මහා සංග්‍රාමය (1914 – 1918)
+            </h2>
+        </div>
+        <div class="p-6 md:p-8 space-y-6">
+            <!-- Image Container -->
+            <div class="rounded-xl overflow-hidden bg-slate-100 border border-slate-200 shadow-inner">
+                <img src="https://images.unsplash.com/photo-1579970592652-3559f643f2e1?auto=format&fit=crop&w=1200&q=80" alt="පළමුවන ලෝක යුද්ධයේ සටන් උපක්‍රම" class="w-full h-64 object-cover">
+                <div class="p-3 bg-slate-50 text-center text-xs text-slate-500 font-medium">පළමුවන ලෝක යුද්ධයේ සටන් උපක්‍රම හා බංකර් පසුබිම</div>
+            </div>
+
+            <div class="space-y-4 text-slate-700 leading-relaxed">
+                <p><strong class="text-slate-900">ආරම්භය හා ව්‍යාප්තිය:</strong> යුරෝපයෙන් ආරම්භ වී, යටත් විජිත හා ඇමරිකා එක්සත් ජනපදය එක්වීමත් සමඟ සමස්ත ලෝකය පුරාම පැතිර ගියේය.</p>
+                
+                <div>
+                    <h3 class="font-bold text-slate-900 mb-2">බලපෑ ප්‍රධාන හේතු:</h3>
+                    <ul class="list-disc pl-5 space-y-2">
+                        <li>ජර්මනිය එක්සත් කිරීමේදී ප්‍රංශය හා ජර්මනිය සතුරන් බවට පත්වීම.</li>
+                        <li>ජර්මන් අධිරාජයා වූ දෙවන විලියම් රජුගේ ආක්‍රමණශීලී විදේශ ප්‍රතිපත්තිය.</li>
+                        <li>ආසියා හා අප්‍රිකානු යටත් විජිත ලබා ගැනීමට බලවත් රටවල් අතර ඇති වූ තරඟය.</li>
+                        <li>යුරෝපීය රටවල් අතර ඇති වූ අවි තරඟය හා උමතු ජාතිවාදය වර්ධනය වීම.</li>
+                        <li>ප්‍රංශය තනි කිරීමට බිස්මාර්ක් අනුගමනය කළ විදේශ ප්‍රතිපත්තිය නිසා මිත්‍ර හා මධ්‍යම ලෙස බල කඳවුරු දෙකක් බිහිවීම.</li>
+                        <li><strong class="text-red-600">ආසන්නතම හේතුව:</strong> ඔස්ට්‍රියාවේ ඔටුන්න හිමි ප්‍රාන්ස් ෆර්ඩිනන්ඩ් කුමරු සරාජිවෝ හිදී ඝාතනය කිරීම (සරාජිවෝ සිද්ධිය).</li>
+                    </ul>
+                </div>
+
+                <div class="grid md:grid-cols-2 gap-4 pt-2">
+                    <div class="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                        <h4 class="font-bold text-blue-900 mb-1">මිත්‍ර පිල</h4>
+                        <p class="text-sm text-slate-600">ප්‍රංශය, බ්‍රිතාන්‍යය, රුසියාව, ඇමරිකා එක්සත් ජනපදය</p>
+                    </div>
+                    <div class="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                        <h4 class="font-bold text-red-900 mb-1">මධ්‍යම බලවතුන්</h4>
+                        <p class="text-sm text-slate-600">ජර්මනිය, ඔස්ට්‍රියාව, ඉතාලිය, තුර්කිය, බල්ගේරියාව, හංගේරියාව</p>
+                    </div>
+                </div>
+
+                <div>
+                    <h3 class="font-bold text-slate-900 mb-2">ප්‍රතිඵල:</h3>
+                    <ul class="list-disc pl-5 space-y-1">
+                        <li>මධ්‍යම බලවතුන් පරාජය වී මිත්‍ර පාක්ෂිකයින් ජය ගැනීම.</li>
+                        <li>විශාල ජීවිත හා දේපළ හානියක් සිදු වීම.</li>
+                        <li>ජර්මන්, ඔස්ට්‍රියා-හංගේරියා, තුර්කි වැනි ඒකාධිපති අධිරාජ්‍ය බිඳ වැටීම.</li>
+                        <li>පින්ලන්තය, පෝලන්තය, චෙකොස්ලෝවැකියාව වැනි නිදහස් රාජ්‍ය බිහිවීම.</li>
+                        <li>ජර්මනියට දැඩි කොන්දේසි පැනවූ <strong class="text-slate-900">වර්සෙල්ස් ගිවිසුම</strong> අත්සන් කිරීම.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Versailles Image -->
+            <div class="rounded-xl overflow-hidden bg-slate-100 border border-slate-200 shadow-inner mt-4">
+                <img src="https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80" alt="1919 වර්සෙල්ස් සාම ගිවිසුම" class="w-full h-56 object-cover">
+                <div class="p-3 bg-slate-50 text-center text-xs text-slate-500 font-medium">1919 වර්සෙල්ස් සාම ගිවිසුම අත්සන් කිරීමේ ඓතිහාසික පසුබිම</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 2. ජාතීන්ගේ සංගමය -->
+    <section class="bg-white rounded-2xl shadow-md border border-slate-100 overflow-hidden transition hover:shadow-lg">
+        <div class="bg-indigo-50 border-l-4 border-indigo-600 p-6">
+            <h2 class="text-2xl font-bold text-indigo-900 flex items-center gap-3">
+                <span class="bg-indigo-600 text-white text-sm w-8 h-8 rounded-full flex items-center justify-center font-semibold">2</span>
+                ජාතීන්ගේ සංගමය (League of Nations)
+            </h2>
+        </div>
+        <div class="p-6 md:p-8 space-y-4 text-slate-700 leading-relaxed">
+            <p><strong class="text-slate-900">පිහිටුවීම:</strong> 1920 ජනවාරි 10 වන දින ඇමරිකානු ජනාධිපති වුඩ්රෝ විල්සන්ගේ මූලිකත්වයෙන් පිහිටුවන ලදී.</p>
+            <p><strong class="text-slate-900">ප්‍රධාන අරමුණු:</strong> ලෝක සාමය හා ආරක්ෂාව සුරැකීම, අනාගත ලෝක යුද්ධ වැළැක්වීම, රාජ්‍යයන් අතර මතභේද සාමකාමීව විසඳීම.</p>
+            <div>
+                <h3 class="font-bold text-slate-900 mb-2">අසාර්ථක වීමට හේතු:</h3>
+                <ul class="list-disc pl-5 space-y-1">
+                    <li>ඇමරිකාව මෙහි සාමාජිකත්වය නොගැනීම.</li>
+                    <li>රුසියාව ඈත් කර තැබීම.</li>
+                    <li>බලවත් රටවල් පාලනය කිරීමට නොහැකි වීම.</li>
+                    <li>දෙවන ලෝක යුද්ධය ආරම්භ වීම වැළැක්වීමට නොහැකි වීම.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- 3. දෙවන ලෝක මහා සංග්‍රාමය -->
+    <section class="bg-white rounded-2xl shadow-md border border-slate-100 overflow-hidden transition hover:shadow-lg">
+        <div class="bg-amber-50 border-l-4 border-amber-600 p-6">
+            <h2 class="text-2xl font-bold text-amber-900 flex items-center gap-3">
+                <span class="bg-amber-600 text-white text-sm w-8 h-8 rounded-full flex items-center justify-center font-semibold">3</span>
+                දෙවන ලෝක මහා සංග්‍රාමය (1939 – 1945)
+            </h2>
+        </div>
+        <div class="p-6 md:p-8 space-y-6">
+            <div class="rounded-xl overflow-hidden bg-slate-100 border border-slate-200 shadow-inner">
+                <img src="https://images.unsplash.com/photo-1444703686981-a3bbc4d59635?auto=format&fit=crop&w=1200&q=80" alt="දෙවන ලෝක යුද්ධයේ බලපෑම" class="w-full h-64 object-cover">
+                <div class="p-3 bg-slate-50 text-center text-xs text-slate-500 font-medium">දෙවන ලෝක යුද්ධ සමයේ ගෝලීය බලපෑම සහ විනාශය</div>
+            </div>
+
+            <div class="space-y-4 text-slate-700 leading-relaxed">
+                <div>
+                    <h3 class="font-bold text-slate-900 mb-2">බලපෑ ප්‍රධාන හේතු:</h3>
+                    <ul class="list-disc pl-5 space-y-2">
+                        <li>ජර්මනියේ ඇඩොල්ෆ් හිට්ලර්ගේ හා නාසිවාදයේ නැගී සිටීම.</li>
+                        <li>ඉතාලියේ බෙනිටෝ මුසෝලිනීගේ පැසිස්ට්වාදී ක්‍රියාකලාපය.</li>
+                        <li>ජපානයේ ආක්‍රමණශීලී විදේශ ප්‍රතිපත්තිය.</li>
+                        <li>ජාතීන්ගේ සංගමයේ දුර්වලතාවය.</li>
+                    </ul>
+                </div>
+
+                <p><strong class="text-slate-900">ආරම්භය හා ව්‍යාප්තිය:</strong> 1939 සැප්තැම්බර් 01 දින ජර්මනිය විසින් පෝලන්තය ආක්‍රමණය කිරීමත් සමඟ ආරම්භ විය. 1941 දී ජපානය ඇමරිකාවේ පර්ල් වරායට බෝම්බ හෙළීම නිසා ඇමරිකාව ද යුද්ධයට අවතීර්ණ විය.</p>
+
+                <div class="grid md:grid-cols-2 gap-4 pt-2">
+                    <div class="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                        <h4 class="font-bold text-amber-900 mb-1">අක්ෂ බලවතුන්</h4>
+                        <p class="text-sm text-slate-600">ජර්මනිය, ඉතාලිය, ජපානය (බර්ලින්-රෝම-ටෝකියෝ අක්ෂය)</p>
+                    </div>
+                    <div class="bg-slate-50 p-4 rounded-xl border border-slate-200">
+                        <h4 class="font-bold text-blue-900 mb-1">මිත්‍ර බලවතුන්</h4>
+                        <p class="text-sm text-slate-600">බ්‍රිතාන්‍යය, ප්‍රංශය, රුසියාව, ඇමරිකා එක්සත් ජනපදය</p>
+                    </div>
+                </div>
+
+                <p><strong class="text-slate-900">අවසානය:</strong> 1945 අගෝස්තු මස ඇමරිකාව විසින් ජපානයේ හිරෝෂිමා හා නාගසාකි නගරවලට පරමාණු බෝම්බ හෙළීමත් සමඟ ජපානය යටත් වී යුද්ධය අවසන් විය.</p>
+
+                <div>
+                    <h3 class="font-bold text-slate-900 mb-2">ප්‍රතිඵල:</h3>
+                    <ul class="list-disc pl-5 space-y-1">
+                        <li>අක්ෂ බලවතුන් පරාජය වීම සහ මිලියන 50 කට අධික පිරිසක් මියයාම.</li>
+                        <li>ශ්‍රී ලංකාව, ඉන්දියාව ඇතුළු යටත් විජිත රැසකට නිදහස ලැබීම.</li>
+                        <li>ඇමරිකාව (ධනවාදී) හා සෝවියට් රුසියාව (සමාජවාදී) ලෝක බලවතුන් ලෙස නැගී සිටීම සහ <strong class="text-slate-900">සීතල යුද්ධය (Cold War)</strong> ආරම්භ වීම.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 4. එක්සත් ජාතීන්ගේ සංවිධානය -->
+    <section class="bg-white rounded-2xl shadow-md border border-slate-100 overflow-hidden transition hover:shadow-lg">
+        <div class="bg-emerald-50 border-l-4 border-emerald-600 p-6">
+            <h2 class="text-2xl font-bold text-emerald-900 flex items-center gap-3">
+                <span class="bg-emerald-600 text-white text-sm w-8 h-8 rounded-full flex items-center justify-center font-semibold">4</span>
+                එක්සත් ජාතීන්ගේ සංවිධානය (UNO)
+            </h2>
+        </div>
+        <div class="p-6 md:p-8 space-y-6">
+            <div class="rounded-xl overflow-hidden bg-slate-100 border border-slate-200 shadow-inner">
+                <img src="https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80" alt="එක්සත් ජාතීන්ගේ සංවිධානය" class="w-full h-64 object-cover">
+                <div class="p-3 bg-slate-50 text-center text-xs text-slate-500 font-medium">ජාත්‍යන්තර සාමය සහ සහයෝගීතාවය තහවුරු කිරීම</div>
+            </div>
+
+            <div class="space-y-4 text-slate-700 leading-relaxed">
+                <p><strong class="text-slate-900">පිහිටුවීම:</strong> 1945 ඔක්තෝබර් 24 වන දින නිල වශයෙන් පිහිටුවන ලදී (සාමාජික රටවල් 51 ක් මුලින්ම එකතු විය).</p>
+                <p><strong class="text-slate-900">ප්‍රධාන අරමුණු:</strong> ජාත්‍යන්තර සාමය හා ආරක්ෂාව පවත්වා ගැනීම, මානව අයිතිවාසිකම් සුරැකීම, ජාතීන් අතර මිත්‍රත්වය වර්ධනය කිරීම.</p>
+                
+                <div>
+                    <h3 class="font-bold text-slate-900 mb-2">ප්‍රධාන ආයතන 6:</h3>
+                    <ol class="list-decimal pl-5 space-y-1">
+                        <li>මහා මණ්ඩලය (General Assembly)</li>
+                        <li>ආරක්ෂක මණ්ඩලය (Security Council)</li>
+                        <li>ආර්ථික හා සමාජීය මණ්ඩලය (Economic and Social Council)</li>
+                        <li>භාරකාර මණ්ඩලය (Trusteeship Council)</li>
+                        <li>ජාත්‍යන්තර අධිකරණය (International Court of Justice)</li>
+                        <li>මහලේකම් කාර්යාලය (Secretariat)</li>
+                    </ol>
+                </div>
+
+                <p><strong class="text-slate-900">ලෝක සාමය උදෙසා මැදිහත් වූ අවස්ථා:</strong> සූවස් අර්බුදය, කියුබානු මිසයිල අර්බුදය, ගල්ෆ් අර්බුදය.</p>
+            </div>
+        </div>
+    </section>
+
+</main>
+
+<!-- Footer -->
+<footer class="bg-slate-900 text-slate-400 text-center py-6 px-4 mt-12 border-t border-slate-800">
+    <p class="text-sm">11 ශ්‍රේණිය ඉතිහාසය විෂය නිර්දේශය මත පදනම් වූ අධ්‍යයන අඩවියකි.</p>
+</footer>
